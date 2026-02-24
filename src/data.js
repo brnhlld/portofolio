@@ -147,7 +147,7 @@ export const listProyek = [
       "An interactive web portfolio showcasing my professional journey, skills, and projects. Designed with a clean yet modern aesthetic, the portfolio highlights my technical expertise in web development, and software engineering. The site also serves as a central hub for potential employers and collaborators to explore my works, reflecting both my creativity and technical precision.",
     borderColor: "#af2c5e",
     gradient: "linear-gradient(145deg, #e4aae7, #000)",
-    url: "https://github.com/unaaell",
+    url: "https://github.com/brnhlld",
     dad: "100",
   },
   {
@@ -159,7 +159,7 @@ export const listProyek = [
       "A smart Discord bot designed to automatically generate member ID cards. This bot helps servers manage member identities with a clean, modern, and user-friendly design.",
     borderColor: "#30afe6",
     gradient: "linear-gradient(180deg, #30afe6, #000)",
-    url: "https://github.com/unaaell",
+    url: "https://github.com/brnhlld",
     dad: "200",
   },
   {
@@ -171,7 +171,7 @@ export const listProyek = [
       "Campus Information Website is a web-based system developed to manage and present academic and campus-related information efficiently, supporting digital transformation in higher education.",
     borderColor: "#e1bb31",
     gradient: "linear-gradient(145deg, #ac941e, #000)",
-    url: "https://github.com/unaaell",
+    url: "https://github.com/brnhlld",
     dad: "300",
   },
 ];
