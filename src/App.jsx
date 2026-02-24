@@ -179,7 +179,7 @@ function App() {
                   <div className="flex flex-col items-center justify-center">
                     <div className="flex items-end gap-1">
                       <span className="text-2xl font-bold leading-none text-black">
-                        3.17
+                        3.37
                       </span>
                       <span className="text-2xl font-bold leading-none text-black">
                         /4.00
