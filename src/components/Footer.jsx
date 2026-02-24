@@ -38,7 +38,7 @@ const Footer = () => {
         {/* Ikon Sosmed */}
         <div className="flex gap-3 order-2 md:order-none">
           <a
-            href="https://github.com/unaaell"
+            href="https://brnhlld.github.io/portofolio/"
             target="_blank"
             rel="noopener noreferrer"
           >
